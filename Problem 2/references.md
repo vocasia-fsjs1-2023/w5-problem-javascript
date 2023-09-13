@@ -40,7 +40,7 @@ Sintaks itu seperti kosa kata (vocabulary) dan tata cara (grammar) pada bahasa p
 
 Bukalah [Repl.it](https://repl.it/languages/javascript), dan cobalah kode di atas pada tab **console**
 
-##Data Type
+## Data Type
 
 Data Type, atau dalam bahasa Indonesia kita sebut sebagai Tipe Data, adalah sekumpulan data dengan nilai yang memiliki karakteristik berbeda. Beberapa contoh dari tipe data adalah:
 
