@@ -19,3 +19,4 @@ if (nilai>=80 && nilai<=100) {
 } else{
     console.log("Nilai Invalid");
 }
+//problem 3
