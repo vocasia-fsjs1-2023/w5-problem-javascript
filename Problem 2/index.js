@@ -6,14 +6,14 @@ var anggur = 30000;
 
 if (name) {
   if (age < 17) {
-    console.log("Anda hanya boleh memesan juice");
+    console.log("Anda hanya boleh memesan juice.");
     if (money >= juice) {
       console.log("Anda bisa pesan minum. Sisa uang anda: " + (money - juice));
     } else {
       console.log("Uang tidak cukup. Anda harus pulang.");
     }
   } else {
-    console.log("Anda hanya boleh memesan anggur");
+    console.log("Anda hanya boleh memesan anggur.");
     money >= anggur
       ? console.log(
           "Anda bisa pesan minum. Sisa uang anda: " + (money - anggur)
