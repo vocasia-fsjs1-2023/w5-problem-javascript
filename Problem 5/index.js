@@ -7,15 +7,15 @@ var fifth = "I";
 var sixth = "love";
 var seventh = "it!";
 
-console.log("Problem 3-1", "<lakukan disini>");
+console.log(word + ' ' + second + ' ' + third + ' ' + fourth + ' ' + fifth + ' ' + sixth + ' ' + seventh);
 
 // Problem 3-2
 var word2 = "wow JavaScript is so cool";
 var exampleFirstWord = word2[0] + word2[1] + word2[2];
-var secondWord; // do your own!
-var thirdWord; // do your own!
-var fourthWord; // do your own!
-var fifthWord; // do your own!
+var secondWord = word2[4] + word2[5] + word2[6] + word2[7] + word2[9] + word2[10] + word2[11] + word2[12] + word2[13]; // do your own!
+var thirdWord = word2[15] + word2[16]; // do your own!
+var fourthWord = word2[18] + word2[19];// do your own!
+var fifthWord = word2[21] + word2[22] + word2[23] + word2[24]; // do your own!
 
 console.log("First Word: " + exampleFirstWord);
 console.log("Second Word: " + secondWord);
