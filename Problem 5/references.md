@@ -248,3 +248,4 @@ var strReal_2 = parseFloat(int); // strReal_2 = 56.7
 - [String by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [JavaScript String Reference by W3School](http://www.w3schools.com/jsref/jsref_obj_string.asp)
 - [JavaScript Type Conversion](http://www.w3schools.com/js/js_type_conversion.asp)
+  
