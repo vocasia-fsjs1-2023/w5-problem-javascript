@@ -41,10 +41,10 @@ Saat kamu mendapatkan tiap huruf, untuk membentuk setiap kata kamu tinggal mengg
 ```javascript
 var word2 = "wow JavaScript is so cool";
 var exampleFirstWord = word2[0] + word2[1] + word2[2];
-var secondWord; // do your own!
-var thirdWord; // do your own!
-var fourthWord; // do your own!
-var fifthWord; // do your own!
+var secondWord = // do your own!
+var thirdWord = // do your own!
+var fourthWord = // do your own!
+var fifthWord = // do your own!
 
 console.log("First Word: " + exampleFirstWord);
 console.log("Second Word: " + secondWord);
