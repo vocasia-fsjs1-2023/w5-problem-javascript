@@ -1,6 +1,23 @@
-var kata = "I love Javascript";
+var kata = "i love javascript";
 
 // Do your work here
+var hasil = "";
 
-// Dont work after this line
-console.log(kata);
+for (var i = 0; i < kata.length; i++) {
+  var karakter = kata[i];
+
+  // Periksa apakah karakter adalah huruf vokal
+  if (
+    karakter === "a" ||
+    karakter === "e" ||
+    karakter === "i" ||
+    karakter === "o" ||
+    karakter === "u"
+  ) {
+    hasil += "$";
+  } else {
+    hasil += karakter;
+  }
+}
+
+console.log(hasil);
